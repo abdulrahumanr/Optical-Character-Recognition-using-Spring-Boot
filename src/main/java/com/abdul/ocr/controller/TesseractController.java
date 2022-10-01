@@ -1,4 +1,4 @@
-package com.vignesh.ocr.controller;
+package com.abdul.ocr.controller;
 
 import java.io.IOException;
 
