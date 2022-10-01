@@ -1,4 +1,4 @@
-package com.vignesh.ocr.service;
+package com.abdul.ocr.service;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
